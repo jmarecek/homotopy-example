@@ -1,4 +1,12 @@
-This script implements the example case from the paper
+Branch cplex-coupling implements experiments behind:
+
+    Mixed-Integer Path-Stable Optimisation, with Applications in Model-Predictive Control of Water Systems
+
+by Jorn H. Baayen and Jakub Marecek, which is available online at
+
+    https://arxiv.org/abs/2001.08121
+
+Main branch implements the experiments from the paper
 
     Continuation method for PDE-constrained global optimization: Analysis and application to the shallow water equations
 
